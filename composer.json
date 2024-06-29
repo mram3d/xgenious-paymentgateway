@@ -19,7 +19,7 @@
         "srmklive/paypal": "~3.0",
         "midtrans/midtrans-php": "^2.5",
         "anandsiddharth/laravel-paytm-wallet": "^2.0.0",
-        "razorpay/razorpay": "^2.*",
+        "razorpay/razorpay": "2.*",
         "mollie/laravel-mollie": "^2.0",
         "kingflamez/laravelrave": "^v4.2.0",
         "unicodeveloper/laravel-paystack": "1.0.*",
